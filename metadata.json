@@ -1,0 +1,5 @@
+{
+  "name": "EchoScribe",
+  "description": "A powerful speech-to-text transcription app powered by Gemini AI.",
+  "requestFramePermissions": ["microphone"]
+}
